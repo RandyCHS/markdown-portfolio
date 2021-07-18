@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Tennis
+* Teaching
+* Learning
+  * New things
+  * Improving old skills

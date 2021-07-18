@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Randy Macdonald
+## Computer Science Teacher
+### Corvallis High School
